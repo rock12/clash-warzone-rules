@@ -1,0 +1,35 @@
+# NAME: Fortnite
+# GAME: Fortnite
+# ENGINE: Epic Games / Unreal Engine / AWS GameLift
+# DOMAIN-SUFFIX: 15
+# IP-CIDR: 13
+# TOTAL: 28
+payload:
+  - DOMAIN-SUFFIX,fortnite.com
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,epicgames.net
+  - DOMAIN-SUFFIX,epicgames.org
+  - DOMAIN-SUFFIX,fn.gg
+  - DOMAIN-SUFFIX,ol.epicgames.com
+  - DOMAIN-SUFFIX,launcher-website-prod07.ol.epicgames.com
+  - DOMAIN-SUFFIX,order-worker.ol.epicgames.com
+  - DOMAIN-SUFFIX,ak.epicgames.com
+  - DOMAIN-SUFFIX,unrealengine.com
+  - DOMAIN-SUFFIX,eac-cdn.com
+  - DOMAIN-SUFFIX,easy.ac
+  - DOMAIN-SUFFIX,easyanticheat.net
+  - DOMAIN-SUFFIX,battleye.com
+  - IP-CIDR,52.84.0.0/15
+  - IP-CIDR,54.224.0.0/12
+  - IP-CIDR,52.0.0.0/11
+  - IP-CIDR,3.208.0.0/12
+  - IP-CIDR,18.204.0.0/14
+  - IP-CIDR,99.80.0.0/15
+  - IP-CIDR,99.86.0.0/16
+  - IP-CIDR,13.32.0.0/15
+  - IP-CIDR,13.35.0.0/16
+  - IP-CIDR,13.224.0.0/14
+  - IP-CIDR,15.188.0.0/16
+  - IP-CIDR,15.236.0.0/15
+  - IP-CIDR,35.156.0.0/14

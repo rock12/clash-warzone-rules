@@ -1,0 +1,32 @@
+# NAME: WARDOGS
+# GAME: WARDOGS (Steam App 1867240)
+# SOURCES: zapret-discord-youtube #16983, Steam #562541634873704474, YOZH3G/ru-gaming-blocklist
+# DOMAIN-SUFFIX: 8
+# IP-CIDR: 19
+# TOTAL: 27
+payload:
+  - DOMAIN,live.wardogs.bulkhead.pragmaengine.com
+  - DOMAIN-SUFFIX,pragmaengine.com
+  - DOMAIN-SUFFIX,bulkhead.pragmaengine.com
+  - DOMAIN-SUFFIX,bulkhead.com
+  - DOMAIN-SUFFIX,wardogs.com
+  - DOMAIN-SUFFIX,firstlook.gg
+  - DOMAIN-SUFFIX,api.epicgames.dev
+  - DOMAIN-SUFFIX,epicgames.dev
+  - IP-CIDR,54.115.0.0/16
+  - IP-CIDR,52.50.63.173/32
+  - IP-CIDR,52.209.230.193/32
+  - IP-CIDR,52.215.132.236/32
+  - IP-CIDR,54.73.85.151/32
+  - IP-CIDR,54.75.198.69/32
+  - IP-CIDR,54.247.140.91/32
+  - IP-CIDR,85.236.96.0/21
+  - IP-CIDR,99.80.68.196/32
+  - IP-CIDR,104.18.124.108/32
+  - IP-CIDR,104.18.125.108/32
+  - IP-CIDR,108.133.35.6/32
+  - IP-CIDR,3.128.0.0/9
+  - IP-CIDR,108.128.0.0/13
+  - IP-CIDR,108.136.0.0/14
+  - IP-CIDR,162.254.192.0/20
+  - IP-CIDR,155.133.224.0/19

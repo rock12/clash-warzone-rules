@@ -1,0 +1,16 @@
+# NAME: DeadByDaylight
+# SOURCE: https://github.com/YOZH3G/ru-gaming-blocklist
+payload:
+  - DOMAIN-SUFFIX,analytic-1-0-13.live.virginia.dbd.bhvronline.com
+  - DOMAIN-SUFFIX,bhvr.com
+  - DOMAIN-SUFFIX,bhvrdbd.com
+  - DOMAIN-SUFFIX,bhvrdbd.net
+  - DOMAIN-SUFFIX,brill.live.bhvrdbd.com
+  - DOMAIN-SUFFIX,cdn.deadbydaylight.com
+  - DOMAIN-SUFFIX,cdn.live.bhvrdbd.com
+  - DOMAIN-SUFFIX,deadbydaylight.com
+  - DOMAIN-SUFFIX,easyanticheat.net
+  - DOMAIN-SUFFIX,forum.bhvr.com
+  - DOMAIN-SUFFIX,latest.live.dbd.bhvronline.com
+  - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,steam.live.bhvrdbd.com

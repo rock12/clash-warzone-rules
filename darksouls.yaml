@@ -1,0 +1,29 @@
+# NAME: DarkSouls
+# GAME: Dark Souls series / Elden Ring / Armored Core 6
+# ENGINE: FromSoftware / Bandai Namco / Sakura Internet / Steam SDR
+# DOMAIN-SUFFIX: 15
+# IP-CIDR: 7
+# TOTAL: 22
+payload:
+  - DOMAIN-SUFFIX,fromsoftware.jp
+  - DOMAIN-SUFFIX,fromsoftware-game.net
+  - DOMAIN-SUFFIX,darksouls.jp
+  - DOMAIN-SUFFIX,darksouls3.com
+  - DOMAIN-SUFFIX,darksouls2.com
+  - DOMAIN-SUFFIX,eldenring.jp
+  - DOMAIN-SUFFIX,armoredcore.net
+  - DOMAIN-SUFFIX,ac6-game.net
+  - DOMAIN-SUFFIX,bandainamcoent.com
+  - DOMAIN-SUFFIX,bandainamcoent.eu
+  - DOMAIN-SUFFIX,bandainamcoent.co.jp
+  - DOMAIN-SUFFIX,bn-ent.net
+  - DOMAIN-SUFFIX,eac-cdn.com
+  - DOMAIN-SUFFIX,easyanticheat.net
+  - DOMAIN-SUFFIX,easy.ac
+  - IP-CIDR,133.242.0.0/16
+  - IP-CIDR,153.120.0.0/14
+  - IP-CIDR,160.16.0.0/15
+  - IP-CIDR,210.188.200.0/21
+  - IP-CIDR,162.254.192.0/20
+  - IP-CIDR,155.133.224.0/19
+  - IP-CIDR,155.133.248.0/21
